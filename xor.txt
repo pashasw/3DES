@@ -1,0 +1,12 @@
+        public static string XOR (string R, string key)
+        {
+            string answer = "";
+            for (int i = 0; i < R.Length; i++)
+            {
+                if ((R[i] == '1' && key[i] == '1') || (R[i] == '0' && key[i] == '0'))
+                    answer += '0';
+                if ((R[i] == '0' && key[i] == '1') || (R[i] == '1' && key[i] == '0'))
+                    answer += '1';
+            }
+            return answer;
+        }

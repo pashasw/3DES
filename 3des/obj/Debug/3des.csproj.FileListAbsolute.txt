@@ -1,0 +1,8 @@
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\bin\Debug\3des.exe.config
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\bin\Debug\3des.exe
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\bin\Debug\3des.pdb
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\obj\Debug\3des.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\obj\Debug\_3des.Form1.resources
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\obj\Debug\3des.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\obj\Debug\3des.exe
+c:\users\pasha\documents\visual studio 2013\Projects\3des\3des\obj\Debug\3des.pdb
